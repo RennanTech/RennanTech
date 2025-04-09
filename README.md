@@ -1,16 +1,28 @@
-## Hi there 👋
+# Olá, eu sou o Rennan! 👋
 
-<!--
-**RennanTech/RennanTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 Sobre Mim
 
-Here are some ideas to get you started:
+Estou cursando **Técnico Integrado em Informática** e sou apaixonado por **tecnologia**, **programação** e **desenvolvimento de soluções** criativas! 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente, estou me aprofundando em linguagens como **Python**, **JavaScript** e **HTML/CSS**, além de estar sempre em busca de aprender novas ferramentas e conceitos. 💡
+
+## 📚 O que estou aprendendo atualmente
+
+- **Desenvolvimento Web** (Frontend e Backend)
+- **Banco de Dados** (SQL e NoSQL)
+- **Automação** com Python
+- **Algoritmos e Estruturas de Dados**
+
+## 📫 Como me encontrar
+
+- **Instagram**: [@rennan_mnunes](https://www.instagram.com/rennan_mnunes/?next=%2F)
+- **Email**: rennanmedeiros321@gmail.com
+
+---
+
+💡 **Dica**: Fique à vontade para explorar meus projetos e me enviar sugestões de melhorias ou novas ideias! A troca de conhecimento é sempre bem-vinda. 😄
+
+---
+
+*“A programação é a arte de ensinar o computador a fazer o que você quer, de maneira eficiente.”* 💻✨
+
